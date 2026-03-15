@@ -1,2 +1,20 @@
-# MIS-Dashboard-Projects
-MIS dashboards, automation scripts, and reporting tools using Excel and Python.
+# MIS Dashboard Projects
+This repository contains MIS reporting tools, dashboards, and automation scripts.
+
+Skills Used
+- Advanced Excel
+- Pivot Tables
+- Data Cleaning
+- Dashboard Design
+- Python Automation
+
+Projects
+
+1. Sales Performance Dashboard
+2. Branch Performance MIS
+3. Data Cleaning Automation
+4. WhatsApp Data to Excel Script
+
+Author
+Goutam Saha
+MIS Executive | Data Analysis | Automation
