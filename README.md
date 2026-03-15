@@ -1,4 +1,7 @@
 # MIS Dashboard Projects
+## Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
 This repository contains MIS reporting tools, dashboards, and automation scripts.
 
 Skills Used
